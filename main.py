@@ -2,7 +2,6 @@ import sys
 import requests
 import pandas as pd
 import json
-import asyncio
 
 
 def get_data():
